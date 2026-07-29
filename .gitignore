@@ -1,0 +1,24 @@
+﻿# never commit home secrets or junk
+.git-credentials
+.ssh/
+.gnupg/
+.docker/
+AppData/
+.android/
+.cache/
+.config/
+.cursor/
+.codex/
+.claude/
+.grok/
+Documents/
+Downloads/
+Desktop/
+OneDrive/
+Pictures/
+Videos/
+Music/
+*.pem
+*.key
+.env
+.env.*

@@ -1,0 +1,676 @@
+{
+  "tunnels": {
+    "ball_core": {
+      "id": "ball_core",
+      "role": "drop",
+      "query": "\"fuck it we ball\" OR \"FUCK IT WE BALL\"",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 33,
+      "posts_sent": 0,
+      "intel_hits": 24
+    },
+    "valhalla": {
+      "id": "valhalla",
+      "role": "drop",
+      "query": "\"til valhalla\" OR \"til Valhalla\" OR \"Til Valhalla\"",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 30,
+      "posts_sent": 0,
+      "intel_hits": 8
+    },
+    "scihub_freedom": {
+      "id": "scihub_freedom",
+      "role": "engage",
+      "query": "sci-hub OR scihub OR \"knowledge wants to be free\"",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 25,
+      "posts_sent": 0,
+      "intel_hits": 14
+    },
+    "build_public_ai": {
+      "id": "build_public_ai",
+      "role": "engage",
+      "query": "\"building in public\" AI OR \"built with AI\" $0 OR broke",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 19,
+      "posts_sent": 0,
+      "intel_hits": 16
+    },
+    "powershell_run": {
+      "id": "powershell_run",
+      "role": "drop",
+      "query": "powershell OR \"fuck it we ball\" coding OR shipping",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 6,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "addiction_fix": {
+      "id": "addiction_fix",
+      "role": "engage",
+      "query": "\"fuck addiction\" OR sobriety OR relapsed recovery",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 7,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "reply_targets_hot": {
+      "id": "reply_targets_hot",
+      "role": "reply",
+      "query": "\"fuck it we ball\" min_faves:5",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 10
+    },
+    "self_brand": {
+      "id": "self_brand",
+      "role": "monitor",
+      "query": "from:kaleblovingier OR from:1_OBadBjrd OR from:klovingi",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 6
+    },
+    "zero_budget": {
+      "id": "zero_budget",
+      "role": "engage",
+      "query": "\"no budget\" OR \"zero dollars\" OR \"broke as hell\" building OR shipping",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 8,
+      "posts_sent": 0,
+      "intel_hits": 4
+    },
+    "alive_run": {
+      "id": "alive_run",
+      "role": "drop",
+      "query": "\"we ball\" OR \"still balling\" OR \"and it don't stop\"",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "ball_core_L3_myth": {
+      "id": "ball_core_L3_myth",
+      "role": "quote",
+      "query": "\"fuck it we ball\" min_faves:1000",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 6,
+      "last_armed": "2026-07-29T17:01:59.025553+00:00"
+    },
+    "ball_economy_L2": {
+      "id": "ball_economy_L2",
+      "role": "quote",
+      "query": "\"fuck it we ball\" (economy OR career OR retirement OR broke)",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 3,
+      "last_armed": "2026-07-29T17:01:59.025553+00:00"
+    },
+    "valhalla_L2": {
+      "id": "valhalla_L2",
+      "role": "engage",
+      "query": "\"til valhalla\" OR \"Til Valhalla\" min_faves:3",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 2,
+      "last_armed": "2026-07-29T17:01:59.025553+00:00"
+    },
+    "ball_theology": {
+      "id": "ball_theology",
+      "role": "quote",
+      "query": "\"fuck it we ball\" (prayer OR mentality OR will to live)",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "rejection_ball": {
+      "id": "rejection_ball",
+      "role": "reply",
+      "query": "\"fuck it we ball\" (rejection OR rejected OR failed OR broke)",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "aaron_swartz": {
+      "id": "aaron_swartz",
+      "role": "engage",
+      "query": "\"Aaron Swartz\" OR Aaronsw OR Elbakyan",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "ball_core_dup": {
+      "id": "ball_core_dup",
+      "role": "drop",
+      "query": "\"fuck it we ball\" OR \"FUCK IT WE BALL\"",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "valhalla_dup": {
+      "id": "valhalla_dup",
+      "role": "drop",
+      "query": "\"til valhalla\" OR \"til Valhalla\" OR \"Til Valhalla\"",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "scihub_freedom_dup": {
+      "id": "scihub_freedom_dup",
+      "role": "engage",
+      "query": "sci-hub OR scihub OR \"knowledge wants to be free\"",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "build_public_ai_dup": {
+      "id": "build_public_ai_dup",
+      "role": "engage",
+      "query": "\"building in public\" AI OR \"built with AI\" $0 OR broke",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "powershell_run_dup": {
+      "id": "powershell_run_dup",
+      "role": "drop",
+      "query": "powershell OR \"fuck it we ball\" coding OR shipping",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "addiction_fix_dup": {
+      "id": "addiction_fix_dup",
+      "role": "engage",
+      "query": "\"fuck addiction\" OR sobriety OR relapsed recovery",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "reply_targets_hot_dup": {
+      "id": "reply_targets_hot_dup",
+      "role": "reply",
+      "query": "\"fuck it we ball\" min_faves:5",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "self_brand_dup": {
+      "id": "self_brand_dup",
+      "role": "monitor",
+      "query": "from:kaleblovingier OR from:1_OBadBjrd OR from:klovingi",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "zero_budget_dup": {
+      "id": "zero_budget_dup",
+      "role": "engage",
+      "query": "\"no budget\" OR \"zero dollars\" OR \"broke as hell\" building OR shipping",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "alive_run_dup": {
+      "id": "alive_run_dup",
+      "role": "drop",
+      "query": "\"we ball\" OR \"still balling\" OR \"and it don't stop\"",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "ball_core_L3_myth_dup": {
+      "id": "ball_core_L3_myth_dup",
+      "role": "quote",
+      "query": "\"fuck it we ball\" min_faves:1000",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "ball_economy_L2_dup": {
+      "id": "ball_economy_L2_dup",
+      "role": "quote",
+      "query": "\"fuck it we ball\" (economy OR career OR retirement OR broke)",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "valhalla_L2_dup": {
+      "id": "valhalla_L2_dup",
+      "role": "engage",
+      "query": "\"til valhalla\" OR \"Til Valhalla\" min_faves:3",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "ball_theology_dup": {
+      "id": "ball_theology_dup",
+      "role": "quote",
+      "query": "\"fuck it we ball\" (prayer OR mentality OR will to live)",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "rejection_ball_dup": {
+      "id": "rejection_ball_dup",
+      "role": "reply",
+      "query": "\"fuck it we ball\" (rejection OR rejected OR failed OR broke)",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "aaron_swartz_dup": {
+      "id": "aaron_swartz_dup",
+      "role": "engage",
+      "query": "\"Aaron Swartz\" OR Aaronsw OR Elbakyan",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_raptor": {
+      "id": "proto_raptor",
+      "role": "drop",
+      "query": "raptor OR \"caw caw\" OR \"CAW CAW\" bird energy OR flock",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 1,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_raptor_dup": {
+      "id": "proto_raptor_dup",
+      "role": "drop",
+      "query": "raptor OR \"caw caw\" OR \"CAW CAW\" bird energy OR flock",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_drone_corvid_conure": {
+      "id": "proto_drone_corvid_conure",
+      "role": "drop",
+      "query": "corvid OR conure OR \"drone\" (bird OR flock OR caw OR squawk)",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 2,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_drone_corvid_conure_dup": {
+      "id": "proto_drone_corvid_conure_dup",
+      "role": "drop",
+      "query": "corvid OR conure OR \"drone\" (bird OR flock OR caw OR squawk)",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_beak_maxxed": {
+      "id": "proto_beak_maxxed",
+      "role": "drop",
+      "query": "\"beak\" OR maxxed OR \"maxxed out\" OR \"raw lyrics\" club",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 6,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_beak_maxxed_dup": {
+      "id": "proto_beak_maxxed_dup",
+      "role": "drop",
+      "query": "\"beak\" OR maxxed OR \"maxxed out\" OR \"raw lyrics\" club",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_beak_mogg": {
+      "id": "proto_beak_mogg",
+      "role": "engage",
+      "query": "mogg OR \"every streamer\" OR \"type shit\" platforms OR allegedly streamer",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_beak_mogg_dup": {
+      "id": "proto_beak_mogg_dup",
+      "role": "engage",
+      "query": "mogg OR \"every streamer\" OR \"type shit\" platforms OR allegedly streamer",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_bangers_only": {
+      "id": "proto_bangers_only",
+      "role": "drop",
+      "query": "\"bangers only\" OR banger club OR \"no filler\" heat OR \"club banger\"",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 1,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_bangers_only_dup": {
+      "id": "proto_bangers_only_dup",
+      "role": "drop",
+      "query": "\"bangers only\" OR banger club OR \"no filler\" heat OR \"club banger\"",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_computah": {
+      "id": "proto_computah",
+      "role": "engage",
+      "query": "computah OR glitch cyber OR \"beep boop\" OR \"digital bars\" coding",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_computah_dup": {
+      "id": "proto_computah_dup",
+      "role": "engage",
+      "query": "computah OR glitch cyber OR \"beep boop\" OR \"digital bars\" coding",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_hug_of_death": {
+      "id": "proto_hug_of_death",
+      "role": "engage",
+      "query": "\"hug of death\" OR \"overwhelm with love\" OR \"positive chaos\" OR \"raw love\"",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 1,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_hug_of_death_dup": {
+      "id": "proto_hug_of_death_dup",
+      "role": "engage",
+      "query": "\"hug of death\" OR \"overwhelm with love\" OR \"positive chaos\" OR \"raw love\"",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_daft_punk": {
+      "id": "proto_daft_punk",
+      "role": "drop",
+      "query": "\"daft punk\" OR \"around the world\" OR \"harder better faster\" OR robot",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 3,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_daft_punk_dup": {
+      "id": "proto_daft_punk_dup",
+      "role": "drop",
+      "query": "\"daft punk\" OR \"around the world\" OR \"harder better faster\" OR robot",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_reincarnation": {
+      "id": "proto_reincarnation",
+      "role": "engage",
+      "query": "reincarnation OR rebirth OR \"come back\" OR \"die and come back\"",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 1,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_reincarnation_dup": {
+      "id": "proto_reincarnation_dup",
+      "role": "engage",
+      "query": "reincarnation OR rebirth OR \"come back\" OR \"die and come back\"",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_wake": {
+      "id": "proto_wake",
+      "role": "engage",
+      "query": "\"stop killing\" OR \"wake up\" OR \"ding dong\" OR NVC nonviolent",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 1,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_wake_dup": {
+      "id": "proto_wake_dup",
+      "role": "engage",
+      "query": "\"stop killing\" OR \"wake up\" OR \"ding dong\" OR NVC nonviolent",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_neverender": {
+      "id": "proto_neverender",
+      "role": "drop",
+      "query": "neverender OR \"never end\" OR \"and it don't stop\" OR infinite loop",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 3,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_neverender_dup": {
+      "id": "proto_neverender_dup",
+      "role": "drop",
+      "query": "neverender OR \"never end\" OR \"and it don't stop\" OR infinite loop",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_scorched_earth": {
+      "id": "proto_scorched_earth",
+      "role": "drop",
+      "query": "\"scorched earth\" OR TARS OR \"burn it down\" shipping OR build",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_scorched_earth_dup": {
+      "id": "proto_scorched_earth_dup",
+      "role": "drop",
+      "query": "\"scorched earth\" OR TARS OR \"burn it down\" shipping OR build",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_dracula": {
+      "id": "proto_dracula",
+      "role": "engage",
+      "query": "\"tame impala\" OR dracula OR borderline OR \"the less I know\"",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_dracula_dup": {
+      "id": "proto_dracula_dup",
+      "role": "engage",
+      "query": "\"tame impala\" OR dracula OR borderline OR \"the less I know\"",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_hell_on_earth": {
+      "id": "proto_hell_on_earth",
+      "role": "drop",
+      "query": "\"hell on earth\" OR chaos swarm OR \"we ball\" apocalypse",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 8,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_hell_on_earth_dup": {
+      "id": "proto_hell_on_earth_dup",
+      "role": "drop",
+      "query": "\"hell on earth\" OR chaos swarm OR \"we ball\" apocalypse",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "cancer_L1_live": {
+      "id": "cancer_L1_live",
+      "role": "reply",
+      "query": "\"fuck cancer\" OR \"FUCK CANCER\"",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "cancer_L1_live_dup": {
+      "id": "cancer_L1_live_dup",
+      "role": "reply",
+      "query": "\"fuck cancer\" OR \"FUCK CANCER\"",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "cancer_ball_crossover": {
+      "id": "cancer_ball_crossover",
+      "role": "reply",
+      "query": "cancer (\"fuck it we ball\" OR \"we ball\" OR chemo OR oncology)",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 5,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "cancer_ball_crossover_dup": {
+      "id": "cancer_ball_crossover_dup",
+      "role": "reply",
+      "query": "cancer (\"fuck it we ball\" OR \"we ball\" OR chemo OR oncology)",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "cancer_L2_fighter": {
+      "id": "cancer_L2_fighter",
+      "role": "engage",
+      "query": "cancer (survivor OR \"stage 4\" OR chemo OR remission OR \"still fighting\") min_faves:3",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "cancer_L2_fighter_dup": {
+      "id": "cancer_L2_fighter_dup",
+      "role": "engage",
+      "query": "cancer (survivor OR \"stage 4\" OR chemo OR remission OR \"still fighting\") min_faves:3",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "cancer_L2_research": {
+      "id": "cancer_L2_research",
+      "role": "quote",
+      "query": "\"cancer treatment\" OR \"cancer research\" OR immunotherapy OR oncology breakthrough",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "cancer_L2_research_dup": {
+      "id": "cancer_L2_research_dup",
+      "role": "quote",
+      "query": "\"cancer treatment\" OR \"cancer research\" OR immunotherapy OR oncology breakthrough",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "cancer_L3_myth": {
+      "id": "cancer_L3_myth",
+      "role": "quote",
+      "query": "\"fuck cancer\" min_faves:1000",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "cancer_L3_myth_dup": {
+      "id": "cancer_L3_myth_dup",
+      "role": "quote",
+      "query": "\"fuck cancer\" min_faves:1000",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "cancer_care_sacred": {
+      "id": "cancer_care_sacred",
+      "role": "engage",
+      "query": "\"fuck cancer\" (passed OR funeral OR miss OR RIP OR aunt OR mom OR dad)",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "cancer_care_sacred_dup": {
+      "id": "cancer_care_sacred_dup",
+      "role": "engage",
+      "query": "\"fuck cancer\" (passed OR funeral OR miss OR RIP OR aunt OR mom OR dad)",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_red_october": {
+      "id": "proto_red_october",
+      "role": "engage",
+      "query": "\"red october\" OR \"silent running\" OR \"hunt for red october\" OR submarine deep",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 3,
+      "posts_sent": 0,
+      "intel_hits": 0
+    },
+    "proto_red_october_dup": {
+      "id": "proto_red_october_dup",
+      "role": "engage",
+      "query": "\"red october\" OR \"silent running\" OR \"hunt for red october\" OR submarine deep",
+      "last_armed": "2026-07-29T17:01:59.025553+00:00",
+      "drafts_emitted": 0,
+      "posts_sent": 0,
+      "intel_hits": 0
+    }
+  },
+  "total_drafts": 163,
+  "total_posted": 0,
+  "created_at": "2026-07-28T05:24:36.925292+00:00",
+  "updated_at": "2026-07-29T17:01:59.032707+00:00",
+  "deep_dig_at": "2026-07-28T05:27:09.610391+00:00",
+  "deep_hits": 24
+}
