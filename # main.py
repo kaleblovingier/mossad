@@ -91,6 +91,30 @@ ATOMS = [
     "fuck it we ball and FUCK cancer",
     "survivor energy. zero quit",
     "knowledge is power. research wants to be free. FUCK CANCER",
+    # RED OCTOBER / DIVE DIVE DIVE
+    "DIVE DIVE DIVE",
+    "RED OCTOBER. DIVE DIVE DIVE",
+    "one ping only",
+    "rig for ultra quiet. still balling",
+    "Captain Ramius energy. turn into the torpedo",
+    "close the gap before it arms. FUCK IT WE FUCKING BALL",
+    "hands to dive stations",
+    "make your depth. zero bubble. still dangerous",
+    "Hunt for Red October. we ball in the deep",
+    "flood tubes. full speed. TIL VALHALLA",
+    # YUNG METRO
+    "IF YUNG METRO DONT",
+    "IF YOUNG METRO DONT TRUST YOU",
+    "Metro tags in. we still ball",
+    "tagline locked. zero quit",
+    "Future energy. Metro stamps it. FUCK IT WE BALL",
+    "if the beat dont trust you the drop still hits",
+    "YUNG METRO PROTOCOL. stamp approved",
+    # Spotify jam / corvid key
+    "CORVID GOT THE KEY",
+    "jam live. club open",
+    "key in beak. feed the club",
+    "spotify jam. zero dollars. still dangerous",
 ]
 
 CLOSERS = [

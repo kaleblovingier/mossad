@@ -62,3 +62,79 @@ Intel this dig: **16** hits
 → `DROP_CANCER.md` (direct x.com links)
 
 HOOK: **FUCK CANCER** · hug the ones closest to you · still show up on the hard days.
+
+---
+
+# RED OCTOBER — DIVE DIVE DIVE (L1 → L3)
+
+Armed: `2026-07-29T17:09:26.784907+00:00`  
+Intel this dig: **18** hits
+
+## Layers
+
+| Layer | id | Purpose |
+|-------|-----|---------|
+| L1 | `red_october_L1` | live Red October / Hunt / dive |
+| L1 | `red_october_sub` | Ramius / one ping / Connery |
+| L1 | `red_october_dive` | DIVE DIVE DIVE surface |
+| L2 | `red_october_L2_clancy` | Clancy techno-thriller |
+| L2 | `red_october_L2_phillies` | Phillies Red October sports |
+| L2 | `red_october_torpedo` | turn into the torpedo |
+| L3 | `red_october_L3_myth` | Jack Carr / film polls / Typhoon |
+
+## Highest-leverage moves RIGHT NOW
+
+1. **QUOTE** @JackCarrUSA Clancy birthday (185k) — first dive energy
+2. **REPLY** @bullfrog35 — Ramius turns into torpedo
+3. **REPLY** @FightingOnFilm / @RM_Mili_History — dive stations live
+4. **QUOTE** @GRCinemaTicket Top Gun vs Red October
+5. **REPLY** Phillies Red October over → we dive again
+
+## Fire sheet
+
+→ `DROP_RED_OCTOBER.md` (direct x.com links)
+
+HOOK: **DIVE DIVE DIVE** · one ping only · close the gap before it arms · FUCK IT WE FUCKING BALL
+
+---
+
+# IF YUNG METRO DONT — TUNNEL (L1 → L3)
+
+Armed: `2026-07-29T17:11:33.526011+00:00`  
+Intel: **11** hits
+
+| Layer | id | Purpose |
+|-------|-----|---------|
+| L1 | `yung_metro_L1` | live tagline |
+| L1 | `yung_metro_trust` | trust variants |
+| L2 | `yung_metro_L2_producer` | Metro/Future/Jumpman |
+| L2 | `yung_metro_ball` | metro × ball |
+| L3 | `yung_metro_L3_myth` | viral + origin |
+
+## Highest leverage
+
+1. **QUOTE** @chefmade_92 ALL CAPS (64k)
+2. **QUOTE** @slvppy once i hear that (45k)
+3. **QUOTE** @BuzzFeed origin
+4. **REPLY** live tagline posts
+5. **SOLO** IF YUNG METRO DONT + ball stamp
+
+→ `DROP_YUNG_METRO.md`
+
+HOOK: **IF YUNG METRO DONT** · stamp approved · FUCK IT WE FUCKING BALL
+
+## CORVIDPHOENIX PROTOCOL dig (2026-08-03)
+
+**Doctrine:** ash → flock → flight · black feathers · gold fire · caw from the fire
+
+| layer | hits seeded | top surface |
+|-------|-------------|-------------|
+| L1 live ash | rebirth + crow/ashes art | @Awakenthyself33, @MissSasah, @jom_simple_GKN |
+| L2 flock | crow/raven pairs, reincarnate-as-crow | @OhAIoBirdMan, @DexOlesa, face-memory science |
+| L3 myth | mass phoenix | @A_doubleC_D 65k, @SicklyTheNinJa 76k, @Gardavwar art |
+
+**Rails armed:** `proto_corvidphoenix` + layer tunnels + dups  
+**Drop pack:** `DROP_CORVIDPHOENIX.md`  
+**Protocol:** `CORVIDPHOENIX_PROTOCOL.md`
+
+CAW FROM THE FIRE. FUCK IT WE FUCKING BALL.

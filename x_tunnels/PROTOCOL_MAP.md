@@ -1,7 +1,7 @@
 # PROTOCOLS — Duplicated X Rails
 
-Armed: `2026-07-29T17:01:59.025553+00:00`
-Protocols: **15** × 2 = **30** rails
+Armed: `2026-08-03T09:12:08.232644+00:00`
+Protocols: **16** × 2 = **32** rails
 
 | protocol | primary | dup | role | query |
 |----------|---------|-----|------|-------|
@@ -20,6 +20,7 @@ Protocols: **15** × 2 = **30** rails
 | **DRACULA_BORDERLINE** | `proto_dracula` | `proto_dracula_dup` | engage | `"tame impala" OR dracula OR borderline OR "the less I know"` |
 | **HELL_ON_EARTH** | `proto_hell_on_earth` | `proto_hell_on_earth_dup` | drop | `"hell on earth" OR chaos swarm OR "we ball" apocalypse` |
 | **RED_OCTOBER** | `proto_red_october` | `proto_red_october_dup` | engage | `"red october" OR "silent running" OR "hunt for red october" OR submarine deep` |
+| **CORVIDPHOENIX** | `proto_corvidphoenix` | `proto_corvidphoenix_dup` | drop | `corvid OR crow OR raven (phoenix OR rebirth OR ashes OR "from the ashes") OR "caw caw" phoenix` |
 
 ## Named set
 
